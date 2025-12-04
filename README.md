@@ -29,7 +29,7 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-<img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
+![WhatsApp Image 2025-12-04 at 1 01 01 PM (1)](https://github.com/user-attachments/assets/6e58dfe2-439b-4649-859f-bc4f3786936f)
 
 
 
@@ -58,16 +58,12 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ## TABULATION/OBSERVATION
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+![WhatsApp Image 2025-12-04 at 1 01 01 PM](https://github.com/user-attachments/assets/d7d418a3-7e44-463d-9f2f-196be68b190a)
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-12-04 at 1 01 00 PM (1)](https://github.com/user-attachments/assets/e68df213-f874-4b0b-b087-cbbd7f330605)
 
 ---
 ## THEORY
@@ -90,8 +86,7 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
-<img width="570" height="480" alt="image" src="https://github.com/user-attachments/assets/be71f26e-36ad-4677-8117-51362146cbbd" />
-
+![WhatsApp Image 2025-12-04 at 1 01 00 PM](https://github.com/user-attachments/assets/88cb5d69-a01b-417a-a86b-0e733302b6cb)
 
 ---
 ## MODEL GRAPH
@@ -125,15 +120,11 @@ Rf = 15K *2=30KΩ
 ## TABULATION/OBSERVATION
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+![WhatsApp Image 2025-12-04 at 1 00 59 PM (1)](https://github.com/user-attachments/assets/2870b639-00ec-45c1-8650-15b3cd866a26)
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-04 at 1 00 59 PM](https://github.com/user-attachments/assets/a3d7d20b-2432-4435-b8d9-3aaa3f8f09aa)
 
 
 ---
